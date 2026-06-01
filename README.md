@@ -30,7 +30,7 @@ DriverDrowsinessAI/
 
 ├── main.py
 
-├── alarm.wav
+├── alarm.mp3
 
 ├── requirements.txt
 
