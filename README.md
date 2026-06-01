@@ -120,14 +120,6 @@ python main.py
 * AI Dashboard and Analytics
 * Cloud-Based Monitoring System
 
-## Author
-
-Navishmitha Dakshith Gunawardana
-
-Software Engineering Undergraduate
-
-University of Sri Jayewardenepura
-
 ## License
 
 This project is developed for educational and research purposes.
